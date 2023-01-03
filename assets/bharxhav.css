@@ -1,0 +1,18 @@
+/*
+    Few things that make me me!
+*/
+
+.telugu:after {
+    content: "Bhargav Kantheti";
+}
+.telugu:hover:after {
+    content: "భార్గవ్ కంతేటి";
+}
+
+#the-element:after {
+    content: "The Element";
+}
+
+#the-element:hover:after {
+    content: "an essential or characteristic part of something abstract.";
+}
